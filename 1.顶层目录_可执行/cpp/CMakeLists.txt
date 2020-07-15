@@ -3,6 +3,7 @@
 #cmake_policy(SET CMP0048 NEW)
 #set(CMAKE_CXX_STANDARD 11)
 cmake_minimum_required (VERSION 2.6)
+#set(CMAKE_CXX_STANDARD 11)
 
 # Project name
 project(helloworld)

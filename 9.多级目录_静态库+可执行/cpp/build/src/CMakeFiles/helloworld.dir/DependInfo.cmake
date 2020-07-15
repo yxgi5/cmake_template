@@ -1,0 +1,24 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/media/andy/M4A/参考资料/cmake/examples/模板/9.多级目录_静态库+可执行/cpp/src/main.cpp" "/media/andy/M4A/参考资料/cmake/examples/模板/9.多级目录_静态库+可执行/cpp/build/src/CMakeFiles/helloworld.dir/main.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../src/./hello"
+  "../src/./world"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/media/andy/M4A/参考资料/cmake/examples/模板/9.多级目录_静态库+可执行/cpp/build/src/hello/CMakeFiles/hello.dir/DependInfo.cmake"
+  "/media/andy/M4A/参考资料/cmake/examples/模板/9.多级目录_静态库+可执行/cpp/build/src/world/CMakeFiles/world.dir/DependInfo.cmake"
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

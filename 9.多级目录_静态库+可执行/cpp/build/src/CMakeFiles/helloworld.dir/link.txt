@@ -1,0 +1,1 @@
+/usr/bin/c++    -g -O0 -Wall -ggdb   CMakeFiles/helloworld.dir/main.cpp.o  -o ../../bin/helloworld -rdynamic ../../lib/libhello.a ../../lib/libworld.a 

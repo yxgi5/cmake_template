@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/./hello/hello.h
+
+../src/./world/world.h
+
+/media/andy/M4A/参考资料/cmake/examples/模板/9.多级目录_静态库+可执行/cpp/src/main.cpp
+iostream
+-
+hello.h
+/media/andy/M4A/参考资料/cmake/examples/模板/9.多级目录_静态库+可执行/cpp/src/hello.h
+world.h
+/media/andy/M4A/参考资料/cmake/examples/模板/9.多级目录_静态库+可执行/cpp/src/world.h
+
