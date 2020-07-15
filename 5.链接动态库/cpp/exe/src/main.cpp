@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include <iostream>
 #include "hello.h"
 #include "world.h"
-int main()
+int main(void)
 {
     hello();
     world();

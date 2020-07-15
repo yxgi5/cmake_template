@@ -1,6 +1,7 @@
+#include <iostream>
 #include "hello.h"
-void hello()
+void hello(void)
 {
-    printf("hello\n");
+    std::cout<<"hello"<<std::endl;
 }
 

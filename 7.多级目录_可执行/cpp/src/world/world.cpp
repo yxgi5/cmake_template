@@ -1,6 +1,7 @@
+#include <iostream>
 #include "world.h"
 void world()
 {
-    printf("world\n");
+    std::cout<<"world"<<std::endl;
 }
 
